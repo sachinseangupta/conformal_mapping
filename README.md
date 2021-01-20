@@ -5,8 +5,6 @@ This tool parameterizes a 3D open triangulated mesh in Grasshopper to 2D space w
 
 The Grasshopper file parses the vertex and face information of the mesh and sends the data to an external Python program which applies the conformal mapping algorithm and sends the data back to Grasshopper. This data exchange is accomplished through a C# script within Grasshopper.
 
-![Combined](https://user-images.githubusercontent.com/63329231/105234490-514a0100-5b39-11eb-8e93-d5016c447e82.png)
-
 *Figure: (Left) 2D mapped output of mesh face area change with reciprocal strut units overlaid. (Right) 3D remapped output of mesh face area change with distorted reciprocal strut units.*
 
 
