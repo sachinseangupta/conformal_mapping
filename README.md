@@ -1,5 +1,5 @@
 # conformal_mapping
-Apply least squares conformal mapping 2D parameterization to an input Grasshopper mesh.
+Apply least squares conformal mapping parameterization to an input Grasshopper mesh.
 
 This tool parameterizes a 3D open triangulated mesh in Grasshopper to 2D space with the goal of maintaining the angular relationships of the mesh faces while allowing the area of the faces to change. It make use of the libigl computational geometry library which contains the least squares conformal mapping algorithm. More info can be found here: https://libigl.github.io/tutorial/#least-squares-conformal-maps
 
