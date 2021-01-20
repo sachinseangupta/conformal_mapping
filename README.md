@@ -7,6 +7,9 @@ The Grasshopper file parses the vertex and face information of the mesh and send
 
 ![Combined](https://user-images.githubusercontent.com/63329231/105234490-514a0100-5b39-11eb-8e93-d5016c447e82.png)
 
+*Figure: (Left) 2D mapped output of mesh face area change with reciprocal strut units overlaid. (Right) 3D remapped output of mesh face area change with distorted reciprocal strut units.*
+
+
 Conformal mapping help solve the age-old problem of flattening a 3D curved object (such as a globe) with minimal angular distortion (a map where the relationships between latitude and longitudinal lines are kept constant). It is useful for architectural tessellation challenges where angular relationships between elements in crucial. For example, this tool can be used for reciprocal frame or reciprocal tensegrity structures where the reciprocal geometric relationships are key to structural performance.
 
 Please contact me for the full .zip folder which will contain all the necessary libaries and a Python .exe file for the tool to be used.
